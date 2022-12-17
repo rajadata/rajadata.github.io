@@ -1,1 +1,23 @@
-{"gtm.start":1671273371576,"event":"gtm.js","gtm.uniqueEventId":1},{"event":"page_view","affiliation":"JustJeans","brandName":"justjeans","content_tags":"","content_type":"product","language_code":"-1","category_id":"462622","category_name":"Originals","country":"AU","env":"DEVELOPMENT","region":"AU","storeId":"90101","timestamp":1671273371,"gtm.uniqueEventId":2},{"event":"view_item","timestamp":1671273371,"ecommerce":{"affiliation":"JustJeans","currency":"AUD","items":[{"affiliation":"JustJeans","item_brand":"N/A","item_category":"Originals","item_category_id":"462622","item_colour":"athena","item_default_colour":"athena","item_description":"ORIGINALS SKY HI RIP WIDE LEG","item_group_id":"pdpParentProductId","item_id":"","item_image_url":"https://justjeans.jgl-test.com.au/JJ/aurora/images/products/large/039046_athena_l.jpg","item_line":"039046","item_line_colour":"","item_name":"Originals Sky Hi Rip Wide Leg","item_original_price":"89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95","price":"89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95","item_sku":"25853967,25853968,25853969,25853970,25853971,25853972,25853973,25853974,25853975","item_stock":"10,10,10,10,10,10,10,5,10","item_variant":"athena_11,12,10,16,14,18,8,9,6","item_recommendation_zone":"","item_size":"11,12,10,16,14,18,8,9,6","quantity":"","urgency":"","url":"https://justjeans.jgl-test.com.au/shop/originals-sky-hi-rip-wide-leg-039046-athena-1"}]},"gtm.uniqueEventId":5},{"event":"gtm.dom","gtm.uniqueEventId":18},{"event":"gtm.load","gtm.uniqueEventId":19}
+{
+  "gtm.start":1671273371576,"event":"gtm.js","gtm.uniqueEventId":1,
+  "event":"page_view","affiliation":"JustJeans","brandName":"justjeans","content_tags":"",
+  "content_type":"product","language_code":"-1","category_id":"462622","category_name":"Originals",
+  "country":"AU","env":"DEVELOPMENT","region":"AU","storeId":"90101","timestamp":1671273371,
+  "gtm.uniqueEventId":2,
+  "event":"view_item","timestamp":1671273371,"ecommerce":{"affiliation":"JustJeans",
+  "currency":"AUD","items":[
+    {"affiliation":"JustJeans","item_brand":"N/A","item_category":"Originals",
+    "item_category_id":"462622","item_colour":"athena","item_default_colour":"athena",
+    "item_description":"ORIGINALS SKY HI RIP WIDE LEG","item_group_id":"pdpParentProductId",
+    "item_id":"","item_image_url":"https://justjeans.jgl-test.com.au/JJ/aurora/images/products/large/039046_athena_l.jpg",
+    "item_line":"039046","item_line_colour":"","item_name":"Originals Sky Hi Rip Wide Leg",
+    "item_original_price":"89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95",
+    "price":"89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95,89.95",
+    "item_sku":"25853967,25853968,25853969,25853970,25853971,25853972,25853973,25853974,25853975",
+    "item_stock":"10,10,10,10,10,10,10,5,10","item_variant":"athena_11,12,10,16,14,18,8,9,6",
+    "item_recommendation_zone":"","item_size":"11,12,10,16,14,18,8,9,6","quantity":"",
+    "urgency":"","url":"https://justjeans.jgl-test.com.au/shop/originals-sky-hi-rip-wide-leg-039046-athena-1"
+  }]},"gtm.uniqueEventId":5,
+  "event":"gtm.dom","gtm.uniqueEventId":18,
+  "event":"gtm.load","gtm.uniqueEventId":19
+}
